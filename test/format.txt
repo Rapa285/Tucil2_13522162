@@ -1,0 +1,6 @@
+x y (titik awal)
+x y (titik kontrol)
+x y (titik akhir)
+n (jumlah iterasi)
+
+# test case berlaku untuk algoritma brute force dan divide and conquer
