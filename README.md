@@ -17,24 +17,20 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+Program ini bertujuan untuk membuat 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python - version 3.11.0
+
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Algortima Brute Force
+- Algortima Divide and Conquer
+
 
 
 ## Screenshots
@@ -43,43 +39,42 @@ List the ready features here:
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+matplotlib version 3.8.2 or above
 
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
+1). Jalankan main.py
+2). Pilih algortima yang ingin digunakan (1/2)
+3). Input 3 titik dengan spasi antara x dan y (x y) lalu enter setiap kali menginput satu titik
+4). Input jumlah iterasi (integer) lalu tekan enter
+contoh input:
+![image](https://github.com/Rapa285/Tucil2_13522162/assets/130206972/01ff049c-74c1-49b0-bf97-a43f640ff0f6)
+
+5). Kurva akan muncul di window baru
+
+
 
 `write-your-code-here`
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+_complete_
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+- Masih belum ada gui
+- Masih belum bisa menghitung kurva derajat tinggi
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Pradipta Rafa Mahesa 13522162
 
 
 <!-- Optional -->
