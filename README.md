@@ -43,14 +43,18 @@ matplotlib version 3.8.2 or above
 
 
 ## Usage
-1). Jalankan main.py
-2). Pilih algortima yang ingin digunakan (1/2)
-3). Input 3 titik dengan spasi antara x dan y (x y) lalu enter setiap kali menginput satu titik
-4). Input jumlah iterasi (integer) lalu tekan enter
-contoh input:
+- 1). Jalankan main.py
+- 2). Pilih algortima yang ingin digunakan (1/2)
+- 3). Input 3 titik dengan spasi antara x dan y (x y) lalu enter setiap kali menginput satu titik
+- 4). Input jumlah iterasi (integer) lalu tekan enter
+- contoh input:
+
+
+
+
 ![image](https://github.com/Rapa285/Tucil2_13522162/assets/130206972/01ff049c-74c1-49b0-bf97-a43f640ff0f6)
 
-5). Kurva akan muncul di window baru
+- 5). Kurva akan muncul di window baru
 
 
 
