@@ -16,7 +16,7 @@
 
 
 ## General Information
-Program ini bertujuan untuk membuat 
+Program ini berfungsi untuk membuat sebuah kurva bezinger dengan algoritma bruce force atau algortima divide and conquer
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
